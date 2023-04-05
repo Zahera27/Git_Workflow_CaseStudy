@@ -1,14 +1,12 @@
 def sum():
 	print("Addition")
 	return
-
-
+<<<<<<< HEAD
 def sub():
 	print('Substraction')
-    return
-
-
+=======
 def percent():
 	print('Percentage')
+>>>>>>> feature2
 	return
 
